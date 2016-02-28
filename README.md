@@ -1,2 +1,3 @@
 # Recommendation System
-##To-Do
+
+Based on the book 'Programming Collective Intelligence'
